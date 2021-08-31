@@ -1,0 +1,3 @@
+id: "20200504172243.48926100"
+project-name: web
+stack: docker.io/kabanero/nodejs:0.3
